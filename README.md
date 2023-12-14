@@ -1,1 +1,1 @@
-# discordPresenceImage
+# Abaikan Isinya Cuma Gambar
